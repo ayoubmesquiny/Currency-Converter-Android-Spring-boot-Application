@@ -1,4 +1,4 @@
-# Currency-Converter-Project
+# Currency-Converter-Android-App
 ## The technology used:
 ### Back-end:
 - Spring boot
