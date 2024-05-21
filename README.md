@@ -48,8 +48,8 @@ This project is an Android application that allows users to convert currencies i
 
 1. Clone the repository
     ```sh
-    git clone https://github.com/yourusername/currency-converter-backend.git
-    cd currency-converter-backend
+    git clone https://github.com/ayoubmesquiny/Currency-Converter-Android-Spring-boot-Application.git
+    cd Currency-Converter-Android-Spring-boot-Application/backend-SpringBoot/currency_converter
     ```
 
 2. Configure application properties
@@ -75,8 +75,8 @@ This project is an Android application that allows users to convert currencies i
 
 1. Clone the repository
     ```sh
-    git clone https://github.com/yourusername/currency-converter-frontend.git
-    cd currency-converter-frontend
+    git clone https://github.com/ayoubmesquiny/Currency-Converter-Android-Spring-boot-Application.git
+    cd Currency-Converter-Android-Spring-boot-Application/frontend-AndroidStudio/CurrencyExchange
     ```
 
 2. Open the project in Android Studio
