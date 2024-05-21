@@ -99,9 +99,8 @@ This project is an Android application that allows users to convert currencies i
 4. Get the converted amount in real-time.
 5. Example of usage:
 
-<p align="center">
-![exemple d'utilisation 1](https://github.com/ayoubmesquiny/Currency-Converter-Android-Spring-boot-Application/assets/74786469/c0fc6ccc-1cd0-4e93-b994-d5405c8e95b0)
-</p>
+<img src="![exemple d'utilisation 1](https://github.com/ayoubmesquiny/Currency-Converter-Android-Spring-boot-Application/assets/74786469/c0fc6ccc-1cd0-4e93-b994-d5405c8e95b0)
+" alt="Example" class="center">
 
 ## Contributing
 
